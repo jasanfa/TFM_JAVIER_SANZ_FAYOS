@@ -1,0 +1,37 @@
+,0,1,2
+0,balanceo de carga,respaldo,0.10989104295939639
+1,disponibilidad,respaldo,0.1393074864530851
+2,replicación,respaldo,0.05727652847757037
+3,arbitrar,respaldo,0.2919863748102095
+4,votación,respaldo,0.13655349765454547
+5,sustitución,respaldo,0.014526967835589932
+6,exportar,respaldo,0.0718995811991051
+7,actualizar,respaldo,-0.08679746646064457
+8,disponibilidad,balanceo de carga,0.10846522890932807
+9,replicación,balanceo de carga,0.032703497008386456
+10,arbitrar,balanceo de carga,0.02049800154226967
+11,votación,balanceo de carga,0.32348719116573565
+12,sustitución,balanceo de carga,0.0846043423048847
+13,exportar,balanceo de carga,0.01620509308880412
+14,actualizar,balanceo de carga,0.13324887481766265
+15,replicación,disponibilidad,0.14070529413628968
+16,arbitrar,disponibilidad,0.3401680257083045
+17,votación,disponibilidad,0.18353258709644937
+18,sustitución,disponibilidad,0.11929618161269212
+19,exportar,disponibilidad,0.14940357616679922
+20,actualizar,disponibilidad,0.21983575504754546
+21,arbitrar,replicación,0.11396057645963795
+22,votación,replicación,0.13373146301410777
+23,sustitución,replicación,0.0027668578554642907
+24,exportar,replicación,0.03603749850782237
+25,actualizar,replicación,-0.007797996951841548
+26,votación,arbitrar,0.017342199390482396
+27,sustitución,arbitrar,-0.12833227548956977
+28,exportar,arbitrar,0.07905694150420951
+29,actualizar,arbitrar,0.13685429109080416
+30,sustitución,votación,0.15368421052631576
+31,exportar,votación,0.09597148699373931
+32,actualizar,votación,0.21953528232743563
+33,exportar,sustitución,0.03838859479749572
+34,actualizar,sustitución,0.13409452380000125
+35,actualizar,exportar,0.05023237925348388
