@@ -1,6 +1,7 @@
 # TFM_JAVIER_SANZ_FAYOS
-PLN para determinar el grado de acierto o validez de una respuesta corta basado en palabras clave
+Procesamiento del Lenguaje Natural para determinar el grado de acierto o validez de una respuesta corta basado en palabras clave
 
 
-En este repositorio se adjuntan los diferentes programas diseñados y construidos para la realización de mi trabajo de final de estudios. La información del repositorio se organizará de la siguiente manera:
-Los archivos jupyter notebook
+En este repositorio se adjuntan los diferentes programas diseñados y construidos para la realización de mi trabajo de final de estudios. Los archivos jupyter notebook programados se encontrarán en el main del repositorio. Se crearán dos carpetas (con el mismo nombre que el archivo de jupyter correspondiente) en la que se recogerá la información necesaria para poder ejecutar el programa (carpeta input) y la información que se genera a partir de él (carpeta output). De esta manera, ciertos archivos de la carpeta "HMM" de salida se incorporarán también en la carpeta de entrada de "KeywordIdentification", a pesar de tener el mismo contenido, en aras de facilitar el uso de estos programas.
+
+Si se desea ejecutar ambos programas sin considerar los archivos adjuntados, únicamente será necesario utilizar la carpeta "Wikicorpus", que se encuentra recogida en la carpeta "Input" de "HMM". A partir de esa colección de textos anotados (corpus), se pueden generar las tablas probabilísticas y el diccionario de lemas necesarios con "HMM_code". Para ejecutar el programa "KeywordIdentification_code", también, es necesario el archivo que recoge la información de los exámenes ("metodos-de-captura-conNota-Anon.json"), que se encuentra en la carpeta "Input" de "KeywordIdentification".
